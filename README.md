@@ -11,18 +11,15 @@
       - Writing and implementing on Scrums metodogies  teams or as solo webmaster for incipient statups or internacionals financial institutions.
       - Preparing reports on programming project specifications, activities, or status as a rutine.
       - Consulting with engineering staff to evaluate software-hardware interfaces and develop specifications and performance requirements.
-
-
+  
 -  I’m looking to collaborate on new chalanges
 
 
-##Contact Details
+Email adrees: 
+jramallo1989@gmail.com
 
 LinkedIn:
 https://www.linkedin.com/in/juan-manuel-ramallo/
-
-Email adrees: 
-jramallo1989@gmail.com
 
 Phone number: 
 +5493513118724
