@@ -16,7 +16,6 @@
 
 
 Email adrees:
-
 jramallo1989@gmail.com
 
 LinkedIn:
