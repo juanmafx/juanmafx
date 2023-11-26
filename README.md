@@ -19,14 +19,11 @@ Email adrees:
 jramallo1989@gmail.com
 
 LinkedIn:
-
 https://www.linkedin.com/in/juan-manuel-ramallo/
 
 Phone number:
-
 +5493513118724
 
 Whatsapp me:
-
 https://wa.me/5493513118724
 
