@@ -1,29 +1,53 @@
-- 👋 Hi, I’m Juan Manuel Ramallo a full stack engineer.
+## 👋 Juan Manuel Ramallo  
+**Senior Full Stack Engineer | Systems & API Architecture | Scalable Web Applications**
 
-- 👀 I’m interested in projects from scrath or adding features, conecting in to new systems Apis by making new APIs and then updating those under REST.
- 
-- 🌱 I’m currently learning more as ever before and impruving my skills by adding  funcionalitys in public and or  private enviorments, tasks like:
-      - Designing, managing software programs.
-      - Testing and evaluating new features.
-      - Modifying software to fix first,  and improve it. 
-      - Deploying software tools, processes and metrics backoofices for  adminitration users interfaces by full CRUD MVS models.
-      - Directing software programming and documentation development.
-      - Writing and implementing on Scrums metodogies  teams or as solo webmaster for incipient statups or internacionals financial institutions.
-      - Preparing reports on programming project specifications, activities, or status as a rutine.
-      - Consulting with engineering staff to evaluate software-hardware interfaces and develop specifications and performance requirements.
-  
--  I’m looking to collaborate on new chalanges
+I design, build, and evolve production-grade systems — from greenfield projects to complex integrations across distributed environments.
 
+---
 
-Email adrees:
-jramallo1989@gmail.com
+### 💼 What I Do
+- Architect and develop **scalable backend systems and APIs (REST)**
+- Design and implement **end-to-end features**, from concept to deployment
+- Integrate **third-party services and external platforms** into cohesive systems
+- Optimize **performance, reliability, and maintainability** in real-world applications
+- Work across **full stack environments**, delivering complete solutions
 
-LinkedIn:
-https://www.linkedin.com/in/juan-manuel-ramallo/
+---
 
-Phone number:
-+5493513118724
+### 🧠 Core Expertise
+- Backend: PHP, Laravel, Node.js  
+- Frontend: React, Angular  
+- Databases: MySQL, PostgreSQL  
+- Architecture: REST APIs, microservices, distributed systems  
+- DevOps: CI/CD, AWS, production deployments  
+- Methodologies: Agile / Scrum  
 
-Whatsapp me:
-https://wa.me/5493513118724
+---
 
+### ⚙️ Experience Highlights
+- Built and maintained **high-volume, production systems** in finance and enterprise environments  
+- Designed **API integrations** with external providers (real-time and near real-time systems)  
+- Improved system performance and reliability through **efficient architecture and debugging**  
+- Delivered solutions both as part of teams and independently in **fast-paced environments**
+
+---
+
+### 🔍 What I’m Focused On
+- High-performance backend systems  
+- Real-time data processing  
+- Scalable architecture design  
+- Long-term maintainable software  
+
+---
+
+### 🤝 Open to
+- Challenging engineering problems  
+- System design & architecture roles  
+- High-impact freelance or contract opportunities  
+
+---
+
+### 📫 Contact
+- Email: **jramallo1989@gmail.com**  
+- LinkedIn: https://www.linkedin.com/in/juan-manuel-ramallo/  
+- Phone / WhatsApp: +54 9 351 311 8724  
