@@ -1,6 +1,6 @@
 # Juan Manuel Ramallo
 
-### Senior Full Stack Engineer and Tech Lead
+### Senior Full Stack Engineer and Tech Lead 
 
 More than 10 years building and leading production software for banks, government and high-traffic US platforms.
 
