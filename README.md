@@ -13,18 +13,18 @@ More than 10 years building and leading production software for banks, governmen
 ## Contents
 
 - [Summary](#summary)
+- [Featured projects](#featured-projects)
 - [Education](#education)
 - [Certifications](#certifications)
 - [Experience](#experience)
 - [Technologies in production](#technologies-in-production)
-- [Activity](#activity)
 - [Open to](#open-to)
 
 ## Summary
 
-I design, build and lead production systems where correctness is not optional: banking platforms that move real money, government infrastructure connected to Argentina's Central Bank, and US-facing SaaS products serving thousands of users and 160+ venues nationwide.
+I design, build and lead production systems where correctness is not optional: banking platforms that move real money, government infrastructure connected to Argentina's Central Bank, and regulated US-facing SaaS products in trucking, firearms retail and aviation.
 
-My background spans Spanish banking groups (BBVA, Santander), Canadian banking (Scotiabank), Argentina's largest payment processor, provincial government, a Fortune 500 healthcare company (GE HealthCare) and a portfolio of US clients in telematics, e-commerce, ticketing, media and aviation.
+My background spans Spanish banking groups (BBVA, Santander), Canadian banking (Scotiabank), provincial government, a Fortune 500 healthcare company (GE HealthCare) and a portfolio of US clients in telematics, e-commerce, ticketing, media and aviation.
 
 I work as a hands-on Tech Lead: architecture decisions, backend and DevOps ownership, code review, mentoring, and direct communication with clients and stakeholders in English. I am comfortable owning a system end to end, from data model and infrastructure to production incident response, and I bring the discipline of regulated environments (security, compliance, auditability) to every project.
 
@@ -34,6 +34,19 @@ I work as a hands-on Tech Lead: architecture decisions, backend and DevOps owner
 | **Cloud** | AWS, Azure, Docker, nginx, Linux, GitHub Actions, CI/CD |
 | **Domains** | Banking, payments, government, telematics, e-commerce, ticketing, media, aviation, healthcare |
 | **Languages** | English full professional, Spanish native |
+
+## Featured projects
+
+Public projects maintained to the same standard as production work: tests in CI, security review, documentation and tagged releases. Most of my professional code lives in private client repositories.
+
+| Project | Stack | What it shows |
+|---|---|---|
+| [monty-hall-decision-lab](https://github.com/juanmafx/monty-hall-decision-lab) | Java, Python, PHP, C | One specification implemented in four languages: exact rational solvers, a seeded simulator that produces bit-identical results across all four, and a cross-language conformance suite in CI |
+| [EngineSyncConsole](https://github.com/juanmafx/EngineSyncConsole) | React 19, Vite | Eight-engine aircraft systems console with a framework-free simulation core: spool dynamics, fuel routing, autoflight, prioritized alerts and a reproducible headless scenario runner |
+| [drug-categories](https://github.com/juanmafx/drug-categories) | Go, GraphQL, React | Full-stack catalog with a hardened GraphQL API: query depth, complexity and rate limits, bearer-token mutations, origin allowlist, optional SQLite |
+| [laravel-2fa-accounts](https://github.com/juanmafx/laravel-2fa-accounts) | Laravel 13, PHP 8.4, TypeScript | Account system with TOTP two-factor authentication and recovery codes, Argon2id hashing, encrypted secrets, rate limiting and a nonce-based CSP |
+| [angular-task-manager](https://github.com/juanmafx/angular-task-manager) | Angular 22, TypeScript | Task manager with lazy-loaded routes, signal-based state, an inward-pointing layered architecture and runtime validation of API responses |
+| [ab-testing-toolkit](https://github.com/juanmafx/ab-testing-toolkit) | PHP 8.4 | A/B testing library and CLI: deterministic SHA-256 assignment, sample-size planning, Wilson intervals, z-tests with Holm correction and sample-ratio-mismatch checks |
 
 ## Education
 
@@ -73,7 +86,7 @@ I started as a self-taught programmer and formalized the foundation with univers
 | 2020 | Flexxus | Full Stack Engineer, ERP and E-commerce | Full-time, remote |
 | 2019 to 2020 | Taller Technologies | Full Stack Developer, GE HealthCare account | Full-time, remote |
 | 2018 to 2019 | Kolektor / Government of Córdoba | Software Developer | Contract, on-site |
-| 2010 to 2012 | Upwork | Freelance Full Stack Engineer | Freelance |
+| 2010 to 2012 | oDesk (now Upwork) | Freelance Full Stack Engineer | Freelance |
 
 ### OutCode Software, Full Stack Engineer and Tech Lead
 
@@ -84,7 +97,7 @@ I started as a self-taught programmer and formalized the foundation with univers
 
 Backend, DevOps and tech lead work across regulated US products in three federally supervised industries: commercial trucking (DOT and FMCSA, the Federal Motor Carrier Safety Administration), firearms retail (FFL, Federal Firearms License holders regulated by the ATF) and aviation (FAA, Federal Aviation Administration).
 
-**Fleet telematics and DOT compliance SaaS.** Owner of the maintenance backend domain: work orders, scheduled maintenance, DVIR inspection reports, issue lifecycle state machines. Built a fleet-wide dashcam certification system with forensic logging and the video clip request API. Led the FMCSA compliance scope and evidence-retention analysis. Found and closed a cross-tenant authorization defect. Telematics device and MDM hardware integrations over the message bus. Hundreds of fleets, thousands of tracked vehicles, around 5,000 devices reporting telemetry.
+**Fleet telematics and DOT compliance SaaS.** Owner of the maintenance backend domain: work orders, scheduled maintenance, DVIR inspection reports, issue lifecycle state machines. Built a fleet-wide dashcam certification system with forensic logging and the video clip request API. Led the FMCSA compliance scope and evidence-retention analysis. Telematics device and MDM hardware integrations over the message bus.
 
 **Regulated firearms e-commerce (FFL dealers).** Catalogue integration with a top US distributor (tens of thousands of SKUs), FFL verification and transfer-authorization workflow, MAP pricing, payment, shipping and JWT integrations, 40-plugin stack audit.
 
@@ -110,7 +123,7 @@ Backend, DevOps and tech lead work across regulated US products in three federal
 | **Type** | Contract via IT consultancy, remote, teams in Chile and Canada |
 | **Stack** | Java, Spring Boot, Gradle, microservices, React, Swagger / OpenAPI, CI/CD, OWASP, COBOL integration |
 
-Scotiabank is one of Canada's five largest banks and one of the most international banks in the Americas. Migration of a legacy Java monolith to Spring Boot microservices with a modular React frontend for personal and corporate guarantee workflows, with adapters to COBOL core-banking services. Designed and built the guarantee-domain microservices: REST contracts, OpenAPI documentation, unit and integration tests, COBOL adapters. Multiple microservices per day at peak. Domain migration completed within the three-month window. Invited to the follow-on initiative for the Chilean operation. Worked under the bank's security program: OWASP Top 10, secure coding standards, review gates.
+Scotiabank is one of Canada's five largest banks and one of the most international banks in the Americas. Migration of a legacy Java monolith to Spring Boot microservices with a modular React frontend for personal and corporate guarantee workflows, with adapters to COBOL core-banking services. Designed and built the guarantee-domain microservices: REST contracts, OpenAPI documentation, unit and integration tests, COBOL adapters. Domain migration completed within the three-month window. Invited to the follow-on initiative for the Chilean operation. Worked under the bank's security program: OWASP Top 10, secure coding standards, review gates.
 
 ### BBVA Bank, Full Stack Engineer, Security and Corporate Banking
 
@@ -128,7 +141,7 @@ BBVA Argentina, formerly Banco Francés, was founded in 1886 and is one of the o
 | **Type** | Full-time, remote |
 | **Stack** | Java, Spring Boot, microservices, COBOL, Angular, Sass |
 
-Santander Argentina, formerly Banco Río de la Plata (founded 1908), is the largest private bank in Argentina and part of the Spanish Santander group. Stabilized and modernized mutual fund (FCI) transaction flows across web and mobile: Spring Boot microservices integrated with legacy COBOL services, Angular and Sass frontend. Delivered on time under the architecture team's guidelines, still in production.
+Santander Argentina, formerly Banco Río de la Plata (founded 1908), is the largest private bank in Argentina and part of the Spanish Santander group. Stabilized and modernized mutual fund (FCI) transaction flows across web and mobile: Spring Boot microservices integrated with legacy COBOL services, Angular and Sass frontend. Delivered on time under the architecture team's guidelines.
 
 ### Flexxus, Full Stack Engineer, ERP and E-commerce
 
@@ -155,9 +168,9 @@ Sitecore-certified developer administering key sections of the GE HealthCare glo
 | **Type** | Contract, on-site at the Fiscal Police of Córdoba |
 | **Stack** | Angular, Node.js, TypeScript, MariaDB, COBOL integration |
 
-Built FTA Go, a court-ordered bank garnishment platform for the provincial prosecutor's office: SOJ judicial electronic orders, Central Bank (BCRA) banking network through COBOL files, CiDi digital identity, multi-step validation wizard. Four-person Scrum team led by Gabriel Serralta, later IT Director General at INDEC.
+Built FTA Go, a court-ordered bank garnishment platform for the provincial prosecutor's office: SOJ judicial electronic orders, Central Bank (BCRA) banking network through COBOL files, CiDi digital identity, multi-step validation wizard. Four-person Scrum team.
 
-### Upwork, Freelance Full Stack Engineer
+### oDesk (now Upwork), Freelance Full Stack Engineer
 
 2010 to 2012. Freelance web development for international clients.
 
@@ -178,23 +191,6 @@ Everything below has been used in production on the projects above.
 
 Working knowledge, not production-deep: Kafka, Snowflake, dbt, Next.js, Kubernetes.
 
-## Activity
-
-8,005 GitHub contributions from November 23, 2025 to November 23, 2026, 7,948 of them in private repositories (GitHub contribution calendar).
-
-**Project history:** this profile repository was originally created in 2022 and modernized in 2026.
-
 ## Open to
 
 Senior and Staff Full Stack Engineering, Tech Lead and Engineering Management, System Architecture and Backend Leadership, and high-impact contract work with US and international companies. Remote, USD.
-
----
-
-**Juan Manuel Ramallo**  
-Senior Full Stack Engineer and Tech Lead, Córdoba, Argentina
-
-| **Email** | jramallo1989@gmail.com |
-|---|---|
-| **LinkedIn** | https://www.linkedin.com/in/juan-manuel-ramallo |
-| **GitHub** | https://github.com/juanmafx |
-| **Location** | Córdoba, Argentina. Remote, GMT-3, full overlap with US business hours |
